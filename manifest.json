@@ -1,6 +1,6 @@
 {
-    "name": "deploy_custom_website",
-    "short_name": "deploy_custom_website",
+    "name": "uni_links_example",
+    "short_name": "uni_links_example",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
